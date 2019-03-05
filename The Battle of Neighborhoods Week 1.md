@@ -6,7 +6,7 @@ I plan to use the following data sets:
 2. Foursquare Places API for Venues
 
 Approach:
-1. Combine the Neighborhoods and Foursquare venue data. This leverage existing work from the Week 3 assignment.
+1. Combine the Neighborhoods and Foursquare venue data. This will leverage existing work from the Week 3 assignment.
 2. Select the top 3 venues from combined data based on ratings.
 3. Determine the category of the venues and the neighborhoods they are located.
 4. Analyze characteristics of the neighborhoods.
